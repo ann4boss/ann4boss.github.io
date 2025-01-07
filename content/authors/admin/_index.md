@@ -38,14 +38,14 @@ profiles:
 
 education:
   - area: MSc Bioinformatics and Computational Biology
-      institution: University of Fribourg and Bern
-      date_start: 2024-09-01
-      date_end: 2026-07-31
-      summary: |
-        Courses includes:
-        - lorem ipsum dolor sit amet, consectetur adipiscing elit
-        - lorem ipsum dolor sit amet, consectetur adipiscing elit
-        - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    institution: University of Fribourg and Bern
+    date_start: 2024-09-01
+    date_end: 2026-07-31
+    summary: |
+      Courses includes:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: MRes Stress, Ageing and Chronic Disease
     institution: University of Brighton
     date_start: 2020-09-01
