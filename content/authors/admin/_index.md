@@ -21,7 +21,7 @@ role: Bioinformatics and Computational Biology Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: University of Fribourg/Bern
+  - name: University of Fribourg and University of Bern
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -74,7 +74,7 @@ work:
     date_start: 2021-11-01
     date_end: 2024-07-31
     summary: |2-
-      Responsibilities include:
+      Responsibilities included:
       - Clinical sample management using JMP
       - Planning & execution of studies
       - Real-world data analysis using Tableau and SQL
@@ -109,7 +109,7 @@ languages:
   - name: English
     percent: 100
   - name: German
-    percent: ''
+    percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.
